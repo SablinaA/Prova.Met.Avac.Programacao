@@ -3,7 +3,7 @@ Repositório para a primeira avaliação da disciplina de Métodos avançados de
 
 Princípios de SOLID utilizados:
 
- 1 - Princípio da responsabilidade única: Uma classe deve ter apenas um motivo para mudar, ou seja, uma classe deve ter apenas uma responsabilidade. No meu código, todas as classes e a interface seguem esse princípio
+ 1 - Princípio da responsabilidade única: Uma classe deve ter apenas um motivo para mudar, ou seja, uma classe deve ter apenas uma responsabilidade. No meu código, todas as classes e a interface seguem esse princípio.
 
 2- Princípio Aberto-Fechado: Entidades devem estar abertas para extensões e fechadas para modificação. Caso necessite acrescentar algo ou fazer alguma mudança, o correto seria fazer um extends. Um trecho do código que aderiu esse princípio é a classe FcatoryCerveja que extends da classe base Cerveja.
 
