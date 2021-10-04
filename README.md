@@ -1,5 +1,5 @@
 # Prova.Met.Avac.Programacao
-Repositório para a primeira avaliação de Métodos avançados de programação.
+Repositório para a primeira avaliação da disciplina de Métodos avançados de programação.
 
 Princípios de SOLID utilizados:
 
